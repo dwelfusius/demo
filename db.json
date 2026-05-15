@@ -1,4 +1,5 @@
-  "posts": [
+  {
+    "posts": [
     { "id": 1, "title": "Oefening 1" },
     { "id": 2, "title": "Oefening 2" },
     { "id": 3, "title": "Oefening 3" }
@@ -9,5 +10,5 @@
   ],
   "profile": {
     "name": "typicode"
+    }
   }
-
