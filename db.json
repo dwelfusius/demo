@@ -1,4 +1,3 @@
-ng{
   "posts": [
     { "id": 1, "title": "Oefening 1" },
     { "id": 2, "title": "Oefening 2" },
@@ -11,4 +10,4 @@ ng{
   "profile": {
     "name": "typicode"
   }
-}
+
